@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyctophilia1102
 - 👀 I’m interested in discord 
 - 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on C/C++ 
+- 💞️ I’m looking to collaborate on HTML, Css and JS
 - 📫 How to reach me facebook.com/HuyAkiro
 
 <!---
