@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/phạm huy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phạm huy" height="30" width="40" /></a>
+<a href="https://fb.com/HuyAkiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phạm huy" height="30" width="40" /></a>
 <a href="https://instagram.com/huy_akiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="huy_akiro" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Xv7nznR8mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Xv7nznR8mm" height="30" width="40" /></a>
 </p>
