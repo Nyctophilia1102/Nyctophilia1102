@@ -1,23 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nyctophilia</h1>
-<h3 align="center">Looking for something new in Python</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyctophilia1102&label=Profile%20views&color=0e75b6&style=flat" alt="nyctophilia1102" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyctophilia1102" alt="nyctophilia1102" /></a> </p>
 
-- 🔭 I’m currently working on **initiating a IT way**
-
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **building web**
-
-- 🤝 I’m looking for help with **NodeJS**
-
-- 💬 Ask me about **how to on screen 6 hours a day**
-
-- 📫 How to reach me **huyakiro12@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
